@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face{
+font-family:"SkyText-Bold";
+src: url("fonts/SkyText-Bold.ttf") format('truetype');
+}
+@font-face{
+font-family:"SkyText-Regular";
+src: url ("fonts/SkyText-Regular.tff") format ('truetype');
+}
+@font-face{
+font-family:"SkyTextMedium-Regular";
+src: url ("fonts/SkyTextMedium-Regular.tff") format ('truetype');
+}
+
+canvas {
+	margin: 0 auto;
+  	display: block;
+  	letter-spacing:2px;
+}
+
+
+
